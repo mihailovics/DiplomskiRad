@@ -1,5 +1,6 @@
 # DiplomskiRad 
 Web aplikacija za prodaju kozmetickih artikala i zakazivanje termina u salonu. U folderu se nalazi izvorni kod, kredincijali, skripta baze kao i sam zavrsni rad u docx fajlu.
+### Landing page
 ![pocetna1](https://github.com/user-attachments/assets/873f88de-3de2-476e-8cae-7af55c9d79a4)
 
 ![pocetna2](https://github.com/user-attachments/assets/616e7e31-b45b-4c93-a559-072521239807)
@@ -17,6 +18,9 @@ U završnom radu je projektovana i implementirana Web aplikacija za upravljanje 
 8. Otvoriti novi tab i ukucati u address baru localhost/OnlineKozmetika i projekat bi trebao da je podesen
 9. U credentials.txt fajlu se nalaze email adrese i lozinke za postojece naloge
 ## Slike
+### Stranica svi proizvodi
 ![SviProizvodi](https://github.com/user-attachments/assets/0d16be49-5c8c-4278-991b-514d38028bac)
-
+### Kopra
 ![korpa](https://github.com/user-attachments/assets/9d621612-8515-4543-98a6-449f1871cc9f)
+### Kontakt Stranica
+![za](https://github.com/user-attachments/assets/073e2574-06e6-4b68-b55b-5cea8594aa35)
