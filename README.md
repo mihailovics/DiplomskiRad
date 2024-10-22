@@ -16,3 +16,7 @@ U završnom radu je projektovana i implementirana Web aplikacija za upravljanje 
 7. Kliknuti import, zatim dugme choose file i dodati file kozmetika.sql
 8. Otvoriti novi tab i ukucati u address baru localhost/OnlineKozmetika i projekat bi trebao da je podesen
 9. U credentials.txt fajlu se nalaze email adrese i lozinke za postojece naloge
+## Slike
+![SviProizvodi](https://github.com/user-attachments/assets/0d16be49-5c8c-4278-991b-514d38028bac)
+
+![korpa](https://github.com/user-attachments/assets/9d621612-8515-4543-98a6-449f1871cc9f)
